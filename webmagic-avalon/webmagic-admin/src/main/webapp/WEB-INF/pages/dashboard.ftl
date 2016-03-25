@@ -174,7 +174,7 @@
         </div>
         <div class="box-content">
             <h1>Charisma <small>free, premium quality, responsive, multiple skin admin template.</small></h1>
-            <p>Its a live demo of the template. I have created Charisma to ease the repeat work I have to do on my projects. Now I re-use Charisma as a base for my admin panel work and I am sharing it with you :)</p>
+            <p>Its a live mydemo of the template. I have created Charisma to ease the repeat work I have to do on my projects. Now I re-use Charisma as a base for my admin panel work and I am sharing it with you :)</p>
             <p><b>All pages in the menu are functional, take a look at all, please share this with your followers.</b></p>
 
             <p class="center">
@@ -452,9 +452,9 @@
 <script src="${staticPath}/js/bootstrap-popover.js"></script>
 <!-- button enhancer library -->
 <script src="${staticPath}/js/bootstrap-button.js"></script>
-<!-- accordion library (optional, not used in demo) -->
+<!-- accordion library (optional, not used in mydemo) -->
 <script src="${staticPath}/js/bootstrap-collapse.js"></script>
-<!-- carousel slideshow library (optional, not used in demo) -->
+<!-- carousel slideshow library (optional, not used in mydemo) -->
 <script src="${staticPath}/js/bootstrap-carousel.js"></script>
 <!-- autocomplete library -->
 <script src="${staticPath}/js/bootstrap-typeahead.js"></script>
@@ -497,7 +497,7 @@
 <script src="${staticPath}/js/jquery.uploadify-3.1.min.js"></script>
 <!-- history.js for cross-browser state change on ajax -->
 <script src="${staticPath}/js/jquery.history.js"></script>
-<!-- application script for Charisma demo -->
+<!-- application script for Charisma mydemo -->
 <script src="${staticPath}/js/charisma.js"></script>
 
 

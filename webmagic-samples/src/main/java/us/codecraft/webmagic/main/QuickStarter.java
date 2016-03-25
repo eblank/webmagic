@@ -36,7 +36,7 @@ public class QuickStarter {
         init();
         String key = null;
         key = readKey(key);
-        System.out.println("The demo started and will last 20 seconds...");
+        System.out.println("The mydemo started and will last 20 seconds...");
         //Start spider
         OOSpider.create(Site.me(), clazzMap.get(key)).addUrl(urlMap.get(key)).addPipeline(new MultiPagePipeline()).addPipeline(new ConsolePipeline()).runAsync();
 
@@ -45,14 +45,14 @@ public class QuickStarter {
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
-        System.out.println("The demo stopped!");
+        System.out.println("The mydemo stopped!");
         System.out.println("To more usage, try to customize your own Spider!");
         System.exit(0);
     }
 
     private static String readKey(String key) {
         Scanner stdin = new Scanner(System.in);
-        System.out.println("Choose a Spider demo:");
+        System.out.println("Choose a Spider mydemo:");
         for (Map.Entry<String, Class> classEntry : clazzMap.entrySet()) {
             System.out.println(classEntry.getKey()+"\t" + classEntry.getValue() + "\t" + urlMap.get(classEntry.getKey()));
         }

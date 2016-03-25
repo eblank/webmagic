@@ -1343,9 +1343,9 @@
 <script src="js/bootstrap-popover.js"></script>
 <!-- button enhancer library -->
 <script src="js/bootstrap-button.js"></script>
-<!-- accordion library (optional, not used in demo) -->
+<!-- accordion library (optional, not used in mydemo) -->
 <script src="js/bootstrap-collapse.js"></script>
-<!-- carousel slideshow library (optional, not used in demo) -->
+<!-- carousel slideshow library (optional, not used in mydemo) -->
 <script src="js/bootstrap-carousel.js"></script>
 <!-- autocomplete library -->
 <script src="js/bootstrap-typeahead.js"></script>
@@ -1388,7 +1388,7 @@
 <script src="js/jquery.uploadify-3.1.min.js"></script>
 <!-- history.js for cross-browser state change on ajax -->
 <script src="js/jquery.history.js"></script>
-<!-- application script for Charisma demo -->
+<!-- application script for Charisma mydemo -->
 <script src="js/charisma.js"></script>
 
 
